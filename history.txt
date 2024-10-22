@@ -1,0 +1,20 @@
+echo hi there
+echo hi    thge
+echo "hher  ejhbfwehjbfwjhbfw   wkjehbf"
+echo "hi there"
+cho "hi there     hello"
+echo "hi there   hello"
+echo hi  ther    hello
+pwd
+cd Desktop
+pwqd
+pwd
+cd
+cd ..
+cd -
+cd ..
+cd ~
+pwd
+cd ehufg  erfukhfg]
+cd efejf
+history
