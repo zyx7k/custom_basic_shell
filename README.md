@@ -12,6 +12,7 @@ This is a simple custom shell program implemented in C. The shell supports basic
 
 ## Project Structure
 
+```
 .
 ├── main.c          # Main shell loop
 ├── cd.c            # cd command implementation
@@ -21,7 +22,7 @@ This is a simple custom shell program implemented in C. The shell supports basic
 ├── display.c       # display shell prompt
 ├── Makefile        # Makefile for compiling and running the shell
 └── include/*.h     # Header files for each command
-
+```
 
 ## Instructions to Run
 
